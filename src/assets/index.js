@@ -19,7 +19,7 @@ import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
+import threejs from "./tech/threejs.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -27,14 +27,14 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import tcs from "./company/tcs.png";
 import intelligence from "./company/intelligence.png";
-import intelligence2 from "./intelligence2.jpg";
+import intelligence2 from "./intelligence2.png";
 import sun from "./company/sun.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-import payment from "./payment.jpg";
-import rental from "./rental.png";
+import payment from "./payment.png";
+import rental from "./rental.jpg";
 
 export {
   logo,

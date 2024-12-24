@@ -43,9 +43,9 @@ const Contact = () => {
         'service_sxcsjlc',
         {
           from_name: form.name,
-          to_name: "Syed Ahmedullah Jaser",
+          to_name: "Shreel Patel",
           from_email: form.email,
-          to_email: "syedahmedullahjaser@gmail.com",
+          to_email: "pshreeld@gmail.com",
           message: form.message,
         },
         '2c-QZKQfzxOJDKzuO'
